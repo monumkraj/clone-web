@@ -1,0 +1,239 @@
+body {
+    background-color:rgb(183, 212, 18);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    /* border: 2px solid red; */
+    padding: 20px;
+    max-width: 100rem;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: -1rem;
+}
+.nav, img{
+    height: 10rem;
+    width: 10rem;
+    margin-left: 12rem;
+    margin-top: 2rem;
+
+}
+h2, h5, h3 {
+    display: inline;
+    margin-left: 65rem;
+    margin-top: -55rem;
+
+}
+.nnf-navbar__logo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    display: flex;
+
+
+}
+
+.nav-links {
+    margin-bottom: 20px;
+    margin-top: -3rem;
+    color: #007BFF;
+
+    
+}
+video{
+    margin-top: 8rem;
+    height: 30%;
+    width: 100%;
+    padding: 1rem;
+}
+p1{
+    margin-top: 8rem;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+    color:rgb(8, 19, 73);  
+}
+
+.link {
+    display: inline-block;
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+a{
+    color: rgb(23, 23, 117) !important;
+}
+.link:hover {
+    color: #007BFF;
+}
+
+button {
+    height: 4rem;
+    width: 12rem;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color:  darkblue;
+    border: none;
+    cursor: pointer;
+    margin-top: -10rem;
+    margin-left: 70rem;
+    display: inline-block;
+}
+.buttons{
+    margin-left: 5rem;
+    margin-right: auto;
+    margin-top: -2rem; 
+    height: 4rem;
+    color: white;
+    width: 12rem;
+    background-color: darkblue;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+.buttonse{
+    margin-left: 5rem;
+    margin-right: auto;
+    margin-top: 2rem; 
+    height: 4rem;
+    color: white;
+    width: 12rem;
+    background-color: darkblue;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+
+.button:hover {
+    background-color: darkblue;
+}
+
+.language-options {
+    margin-top: 1rem;
+}
+
+.language-options h5,
+.language-options h2,
+.language-options h3 {
+    display: inline;
+    margin: 0 0.5rem;
+    font-size: 1rem;
+    color: #000;
+}
+p{
+    /* margin-right: 65rem; */
+    margin-top: 8rem;
+    font-size: 4.5rem;
+    margin-left: 4rem;
+    color:rgb(8, 19, 73);
+}
+p2{
+    /* margin-top: 8rem; */
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    color:rgb(8, 19, 73);
+}
+.image{
+    height: 25rem;
+    width: 45rem;
+    margin-left: 50rem;
+    margin-top: -20rem;
+}
+.images{
+    margin-top: -30rem;
+    height: 25rem;
+    width: 45rem;
+    margin-left: 50rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ####################456########## */
+/* .splash-new {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+.splash-text__text {
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+
+.splash-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    color: #333;
+}
+
+.splash-description {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.5;
+}
+
+
+.image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+
+.splash-video__bkg {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+
+.splash-text--top-positive {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.splash-text--top-positive .splash-new {
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+ */
